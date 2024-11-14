@@ -1,5 +1,8 @@
 # Descarga de los archivos
+## Opcion 1: Descargar .zip
 ![Demostración del descarga](resources/output.gif)
+## Opcion 2: clonar el repositorio
+Para poder clonar el repositorio es necesario
 # Creacion del entorno virtual
 Vamos a utilizar el gestor de ambientes virtuales PIP (Python Package Installer)
 ## Linux
