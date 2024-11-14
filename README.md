@@ -1,6 +1,6 @@
 # Descarga de los archivos
 Para descargar el repositorio sigue los pasos del siguiente gif
-![Demostración del descarga](resources/downloadTutorial.gif)
+![Demostración del descarga](resources/output.gif)
 # Creacion del entorno virtual
 Vamos a utilizar el gestor de ambientes virtuales PIP (Python Package Installer)
 ## Linux
