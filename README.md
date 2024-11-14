@@ -1,6 +1,11 @@
+# Descarga de los archivos
+Para descargar el repositorio sigue los pasos del siguiente gif
+![Demostración del Proyecto](ruta/del/gif.gif)
 # Creacion del entorno virtual
-## Linux
 Vamos a utilizar el gestor de ambientes virtuales PIP (Python Package Installer)
-- Ejecutar el comando 'python -m venv <nombre del ambiente>'
-- Inicializamos el entorno virtual 'source envtpe/bin/activate'
-- Instalamos el paquete de librerias 'pip install requirements.txt'
+## Linux
+- Abrimos una consola 
+- Ejecutar el comando `python -m venv <nombre del ambiente>`
+- Inicializamos el entorno virtual `source envtpe/bin/activate`
+- Instalamos el paquete de librerias `pip install requirements.txt`
+- 
