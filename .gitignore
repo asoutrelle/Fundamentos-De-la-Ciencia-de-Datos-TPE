@@ -1,0 +1,8 @@
+#Entorno
+envtpe/
+
+#Archivos de Jupyter
+.ipynb_checkpoints/
+
+#Archivo de variables de entorno
+.env
