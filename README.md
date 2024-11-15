@@ -34,6 +34,7 @@ Vamos a utilizar el IDE VScode
 - Seleccionamos el Kernel
 
 ![Demostración de seleccion de kernel](resources/output2.gif)
+
 ⚠️ **Advertencia** 
 > Si no aparece tu entorno virtual, intenta reiniciar el IDE o abrir nuevamnete la carpeta con los archivo
 
