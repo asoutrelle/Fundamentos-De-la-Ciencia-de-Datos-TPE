@@ -17,6 +17,7 @@ Vamos a utilizar el gestor de ambientes virtuales PIP (Python Package Installer)
 > Si no tenemos Python debemos instalarlo con el siguiente [link](https://www.python.org/downloads/) para poder utilizar
 el comando pip.
 > Si depues de instalar Python y ejecutar `pip` aparece el siguiente error
+
 ![](resources/readmetutorial.png) [debemos configurar el path de windows](https://www.youtube.com/watch?v=B08TNPt7a-M)
 
 - Abrimos una consola en el path donde queramos tener el proyecto
@@ -27,9 +28,11 @@ el comando pip.
 Vamos a utilizar el IDE VScode
 - [Instalamos VScode](https://www.youtube.com/watch?v=X_Z7d04x9-E)
 - En VScode, instalamos la extenciones de Jupyter Notebook
+
  ![Demostración de la instalacion](resources/output3.gif)
 - Abrimos el archivo Grupo-21.ipynb en el IDE
 - Seleccionamos el Kernel
+
 ![Demostración de seleccion de kernel](resources/output2.gif)
 ⚠️ **Advertencia** 
 > Si no aparece tu entorno virtual, intenta reiniciar el IDE o abrir nuevamnete la carpeta con los archivo
