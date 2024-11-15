@@ -36,7 +36,7 @@ el comando pip.
 - Abrimos el archivo Grupo-21.ipynb en el IDE
 - Seleccionamos el Kernel
 
-<img src="resources/output2.gif" alt="Demostración de selección de kernel" width="600px">
+<img src="resources/output720.gif" alt="Demostración de selección de kernel" width="720px">
 
 ⚠️ **Advertencia**
 > Si no aparece tu entorno virtual, intenta reiniciar el IDE o abrir nuevamente la carpeta con los archivo
